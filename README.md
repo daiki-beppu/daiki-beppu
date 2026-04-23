@@ -13,8 +13,7 @@ AI の出力を仕組みで担保・改善する実装技術として、次の 2
 
 ## 🐍 Contribution Snake
 
-![snake light mode](https://raw.githubusercontent.com/daiki-beppu/daiki-beppu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake dark mode](https://raw.githubusercontent.com/daiki-beppu/daiki-beppu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution snake](https://raw.githubusercontent.com/daiki-beppu/daiki-beppu/output/github-contribution-grid-snake.svg)
 
 ## 🛠 Tech Stack
 
